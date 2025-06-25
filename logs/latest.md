@@ -1,11 +1,11 @@
 | Owner | Repository | Workflow | Status | Last Run | URL |
 | ----- | ---------- | -------- | ------ | -------- | --- |
-| ome | [omero-cli-transfer](https://github.com/ome/omero-cli-transfer) | OMERO | ![Failure](https://img.shields.io/badge/Failure-red) | 2025-06-24 01:45:37 | [15839158139](https://github.com/ome/omero-cli-transfer/actions/runs/15839158139) |
-| German-BioImaging | [omero-autotag](https://github.com/German-BioImaging/omero-autotag) | PyPI | ![Success](https://img.shields.io/badge/Success-brightgreen) | 2025-06-24 01:05:05 | [15838640251](https://github.com/German-BioImaging/omero-autotag/actions/runs/15838640251) |
-| German-BioImaging | [omero-tagsearch](https://github.com/German-BioImaging/omero-tagsearch) | PyPI | ![Success](https://img.shields.io/badge/Success-brightgreen) | 2025-06-24 01:57:54 | [15839315050](https://github.com/German-BioImaging/omero-tagsearch/actions/runs/15839315050) |
+| ome | [omero-cli-transfer](https://github.com/ome/omero-cli-transfer) | OMERO | ![Failure](https://img.shields.io/badge/Failure-red) | 2025-06-25 01:45:56 | [15865371792](https://github.com/ome/omero-cli-transfer/actions/runs/15865371792) |
+| German-BioImaging | [omero-autotag](https://github.com/German-BioImaging/omero-autotag) | PyPI | ![Success](https://img.shields.io/badge/Success-brightgreen) | 2025-06-25 01:05:32 | [15864869234](https://github.com/German-BioImaging/omero-autotag/actions/runs/15864869234) |
+| German-BioImaging | [omero-tagsearch](https://github.com/German-BioImaging/omero-tagsearch) | PyPI | ![Success](https://img.shields.io/badge/Success-brightgreen) | 2025-06-25 01:58:01 | [15865523512](https://github.com/German-BioImaging/omero-tagsearch/actions/runs/15865523512) |
 | TheJacksonLaboratory | [ezomero](https://github.com/TheJacksonLaboratory/ezomero) | Run Tests on push | ![Success](https://img.shields.io/badge/Success-brightgreen) | 2025-06-22 00:36:45 | [15801168179](https://github.com/TheJacksonLaboratory/ezomero/actions/runs/15801168179) |
-| fractal-analytics-platform | [ngio](https://github.com/fractal-analytics-platform/ngio) | CI | ![Failure](https://img.shields.io/badge/Failure-red) | 2025-06-22 02:08:18 | [15801867209](https://github.com/fractal-analytics-platform/ngio/actions/runs/15801867209) |
-| BioNGFF | [ome-zarr.js](https://github.com/BioNGFF/ome-zarr.js) | Deploy VitePress site to Pages | ![Success](https://img.shields.io/badge/Success-brightgreen) | 2025-06-24 01:46:04 | [15839163784](https://github.com/BioNGFF/ome-zarr.js/actions/runs/15839163784) |
+| fractal-analytics-platform | [ngio](https://github.com/fractal-analytics-platform/ngio) | CI | ![Success](https://img.shields.io/badge/Success-brightgreen) | 2025-06-24 12:56:11 | [15851043702](https://github.com/fractal-analytics-platform/ngio/actions/runs/15851043702) |
+| BioNGFF | [ome-zarr.js](https://github.com/BioNGFF/ome-zarr.js) | Deploy VitePress site to Pages | ![Success](https://img.shields.io/badge/Success-brightgreen) | 2025-06-25 01:46:17 | [15865376697](https://github.com/BioNGFF/ome-zarr.js/actions/runs/15865376697) |
 
 
-*Last updated: 2025-06-24 03:22:00*
+*Last updated: 2025-06-25 03:22:58*
