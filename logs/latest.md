@@ -5,7 +5,7 @@
 | German-BioImaging | [omero-tagsearch](https://github.com/German-BioImaging/omero-tagsearch) | PyPI | ![Success](https://img.shields.io/badge/Success-brightgreen) | 2025-07-07 02:03:39 | [16105889204](https://github.com/German-BioImaging/omero-tagsearch/actions/runs/16105889204) |
 | TheJacksonLaboratory | [ezomero](https://github.com/TheJacksonLaboratory/ezomero) | Run Tests on push | ![Success](https://img.shields.io/badge/Success-brightgreen) | 2025-10-05 00:33:57 | [18251528388](https://github.com/TheJacksonLaboratory/ezomero/actions/runs/18251528388) |
 | BioVisionCenter | [ngio](https://github.com/BioVisionCenter/ngio) | CI | ![Success](https://img.shields.io/badge/Success-brightgreen) | 2025-10-05 01:54:53 | [18252358929](https://github.com/BioVisionCenter/ngio/actions/runs/18252358929) |
-| BioNGFF | [ome-zarr.js](https://github.com/BioNGFF/ome-zarr.js) | Deploy VitePress site to Pages | ![Success](https://img.shields.io/badge/Success-brightgreen) | 2025-10-05 00:41:25 | [18251609439](https://github.com/BioNGFF/ome-zarr.js/actions/runs/18251609439) |
+| BioNGFF | [ome-zarr.js](https://github.com/BioNGFF/ome-zarr.js) | Deploy VitePress site to Pages | ![Success](https://img.shields.io/badge/Success-brightgreen) | 2025-10-06 00:38:25 | [18266707737](https://github.com/BioNGFF/ome-zarr.js/actions/runs/18266707737) |
 
 
-*Last updated: 2025-10-05 03:11:14*
+*Last updated: 2025-10-06 03:06:38*
