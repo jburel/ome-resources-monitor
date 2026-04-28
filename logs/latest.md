@@ -4,9 +4,9 @@
 | German-BioImaging | [omero-autotag](https://github.com/German-BioImaging/omero-autotag) | PyPI | ![Success](https://img.shields.io/badge/Success-brightgreen) | 2026-03-28 02:39:30 | [23675660915](https://github.com/German-BioImaging/omero-autotag/actions/runs/23675660915) |
 | German-BioImaging | [omero-tagsearch](https://github.com/German-BioImaging/omero-tagsearch) | PyPI | ![Success](https://img.shields.io/badge/Success-brightgreen) | 2026-04-12 01:52:26 | [24296250721](https://github.com/German-BioImaging/omero-tagsearch/actions/runs/24296250721) |
 | TheJacksonLaboratory | [ezomero](https://github.com/TheJacksonLaboratory/ezomero) | Run Tests on push | ![Success](https://img.shields.io/badge/Success-brightgreen) | 2025-11-30 00:37:45 | [19791459846](https://github.com/TheJacksonLaboratory/ezomero/actions/runs/19791459846) |
-| BioVisionCenter | [ngio](https://github.com/BioVisionCenter/ngio) | CI | ![Success](https://img.shields.io/badge/Success-brightgreen) | 2026-04-26 03:32:53 | [24947352348](https://github.com/BioVisionCenter/ngio/actions/runs/24947352348) |
+| BioVisionCenter | [ngio](https://github.com/BioVisionCenter/ngio) | CI | ![Success](https://img.shields.io/badge/Success-brightgreen) | 2026-04-27 09:30:36 | [24987326417](https://github.com/BioVisionCenter/ngio/actions/runs/24987326417) |
 | BioNGFF | [ome-zarr.js](https://github.com/BioNGFF/ome-zarr.js) | CI | ![Success](https://img.shields.io/badge/Success-brightgreen) | 2026-04-21 12:03:27 | [24721294756](https://github.com/BioNGFF/ome-zarr.js/actions/runs/24721294756) |
-| BioNGFF | [ome-zarr.js](https://github.com/BioNGFF/ome-zarr.js) | Deploy VitePress site to Pages | ![Success](https://img.shields.io/badge/Success-brightgreen) | 2026-04-27 02:50:09 | [24974209022](https://github.com/BioNGFF/ome-zarr.js/actions/runs/24974209022) |
+| BioNGFF | [ome-zarr.js](https://github.com/BioNGFF/ome-zarr.js) | Deploy VitePress site to Pages | ![Success](https://img.shields.io/badge/Success-brightgreen) | 2026-04-28 02:56:50 | [25031397894](https://github.com/BioNGFF/ome-zarr.js/actions/runs/25031397894) |
 
 
-*Last updated: 2026-04-27 05:30:59*
+*Last updated: 2026-04-28 05:36:44*
