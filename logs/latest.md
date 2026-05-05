@@ -6,7 +6,7 @@
 | TheJacksonLaboratory | [ezomero](https://github.com/TheJacksonLaboratory/ezomero) | Run Tests on push | ![Success](https://img.shields.io/badge/Success-brightgreen) | 2025-11-30 00:37:45 | [19791459846](https://github.com/TheJacksonLaboratory/ezomero/actions/runs/19791459846) |
 | BioVisionCenter | [ngio](https://github.com/BioVisionCenter/ngio) | CI | ![Success](https://img.shields.io/badge/Success-brightgreen) | 2026-05-03 03:46:56 | [25269106222](https://github.com/BioVisionCenter/ngio/actions/runs/25269106222) |
 | BioNGFF | [ome-zarr.js](https://github.com/BioNGFF/ome-zarr.js) | CI | ![Success](https://img.shields.io/badge/Success-brightgreen) | 2026-04-21 12:03:27 | [24721294756](https://github.com/BioNGFF/ome-zarr.js/actions/runs/24721294756) |
-| BioNGFF | [ome-zarr.js](https://github.com/BioNGFF/ome-zarr.js) | Deploy VitePress site to Pages | ![Success](https://img.shields.io/badge/Success-brightgreen) | 2026-05-04 02:54:27 | [25298712624](https://github.com/BioNGFF/ome-zarr.js/actions/runs/25298712624) |
+| BioNGFF | [ome-zarr.js](https://github.com/BioNGFF/ome-zarr.js) | Deploy VitePress site to Pages | ![Success](https://img.shields.io/badge/Success-brightgreen) | 2026-05-05 02:46:28 | [25355107916](https://github.com/BioNGFF/ome-zarr.js/actions/runs/25355107916) |
 
 
-*Last updated: 2026-05-04 05:40:36*
+*Last updated: 2026-05-05 05:20:57*
