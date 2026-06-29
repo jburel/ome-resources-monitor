@@ -2,6 +2,7 @@
 
 Find below the list of previous runs
 
+[log_2026_06_29.md](log_2026_06_29.md)  
 [log_2026_06_28.md](log_2026_06_28.md)  
 [log_2026_06_27.md](log_2026_06_27.md)  
 [log_2026_06_26.md](log_2026_06_26.md)  
@@ -31,4 +32,3 @@ Find below the list of previous runs
 [log_2026_06_02.md](log_2026_06_02.md)  
 [log_2026_06_01.md](log_2026_06_01.md)  
 [log_2026_05_31.md](log_2026_05_31.md)  
-[log_2026_05_30.md](log_2026_05_30.md)  
