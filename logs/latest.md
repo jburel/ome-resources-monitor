@@ -1,12 +1,12 @@
 | Owner | Repository | Workflow | Status | Last Run | URL |
 | ----- | ---------- | -------- | ------ | -------- | --- |
-| ome | [omero-cli-transfer](https://github.com/ome/omero-cli-transfer) | OMERO | ![Failure](https://img.shields.io/badge/Failure-red) | 2026-10-07 05:40:45 | [37577504165](https://github.com/ome/omero-cli-transfer/actions/runs/37577504165) |
-| German-BioImaging | [omero-autotag](https://github.com/German-BioImaging/omero-autotag) | PyPI | ![Success](https://img.shields.io/badge/Success-brightgreen) | 2026-10-07 00:11:42 | [37550668109](https://github.com/German-BioImaging/omero-autotag/actions/runs/37550668109) |
-| German-BioImaging | [omero-tagsearch](https://github.com/German-BioImaging/omero-tagsearch) | PyPI | ![Success](https://img.shields.io/badge/Success-brightgreen) | 2026-09-04 00:20:15 | [33821373567](https://github.com/German-BioImaging/omero-tagsearch/actions/runs/33821373567) |
+| ome | [omero-cli-transfer](https://github.com/ome/omero-cli-transfer) | OMERO | ![Success](https://img.shields.io/badge/Success-brightgreen) | 2026-10-08 05:49:01 | [37734281213](https://github.com/ome/omero-cli-transfer/actions/runs/37734281213) |
+| German-BioImaging | [omero-autotag](https://github.com/German-BioImaging/omero-autotag) | PyPI | ![Success](https://img.shields.io/badge/Success-brightgreen) | 2026-10-08 00:11:02 | [37706391058](https://github.com/German-BioImaging/omero-autotag/actions/runs/37706391058) |
+| German-BioImaging | [omero-tagsearch](https://github.com/German-BioImaging/omero-tagsearch) | PyPI | ![Success](https://img.shields.io/badge/Success-brightgreen) | 2026-10-08 00:53:13 | [37710081112](https://github.com/German-BioImaging/omero-tagsearch/actions/runs/37710081112) |
 | TheJacksonLaboratory | [ezomero](https://github.com/TheJacksonLaboratory/ezomero) | Run Tests on push | ![Success](https://img.shields.io/badge/Success-brightgreen) | 2025-11-30 00:37:45 | [19791459846](https://github.com/TheJacksonLaboratory/ezomero/actions/runs/19791459846) |
 | BioVisionCenter | [ngio](https://github.com/BioVisionCenter/ngio) | CI | ![Success](https://img.shields.io/badge/Success-brightgreen) | 2026-10-06 10:06:38 | [37447574506](https://github.com/BioVisionCenter/ngio/actions/runs/37447574506) |
 | BioNGFF | [ome-zarr.js](https://github.com/BioNGFF/ome-zarr.js) | CI | ![Success](https://img.shields.io/badge/Success-brightgreen) | 2026-10-03 22:26:46 | [37158467079](https://github.com/BioNGFF/ome-zarr.js/actions/runs/37158467079) |
-| BioNGFF | [ome-zarr.js](https://github.com/BioNGFF/ome-zarr.js) | Deploy VitePress site to Pages | ![Success](https://img.shields.io/badge/Success-brightgreen) | 2026-10-07 04:28:30 | [37571626672](https://github.com/BioNGFF/ome-zarr.js/actions/runs/37571626672) |
+| BioNGFF | [ome-zarr.js](https://github.com/BioNGFF/ome-zarr.js) | Deploy VitePress site to Pages | ![Success](https://img.shields.io/badge/Success-brightgreen) | 2026-10-08 04:39:33 | [37728534612](https://github.com/BioNGFF/ome-zarr.js/actions/runs/37728534612) |
 
 
-*Last updated: 2026-10-07 08:30:27*
+*Last updated: 2026-10-08 08:46:43*
